@@ -8,7 +8,7 @@ existing Java libraries that are licensed under Free/Open Licenses.
 Initially, this is planned to be supported on GNU/Linux, FreeBSD and 
 Windows 7+.
 
-image:https://travis-ci.org/benignbala/OTF.svg?branch=master["Build Status", link="https://travis-ci.org/benignbala/OTF"]
+image:https://travis-ci.org/OpenTestFramework/OTF.svg?branch=master["Build Status", link="https://travis-ci.org/OpenTestFramework/OTF.svg?branch=master"]
 
 == OTF Goals
 
